@@ -1,0 +1,7 @@
+class test
+{
+psmv()
+{
+sop"hello"
+}
+}
